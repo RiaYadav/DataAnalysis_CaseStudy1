@@ -16,7 +16,7 @@ Below given are six steps followed.
 
 **Deliverables**
 * A clear statement of the business task
-* CaseStudy_Guideline.docx has the deliverable ready.
+* [CaseStudy_Guideline.docx](https://github.com/RiaYadav/DataAnalysis_CaseStudy1/blob/main/CaseStudy_Guideline.docx) has the deliverable ready.
 
 ## Prepare Phase
 
