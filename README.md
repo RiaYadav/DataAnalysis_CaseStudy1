@@ -24,7 +24,8 @@ Below given are six steps followed.
 2. Identify how it’s organized.
 3. Sort and filter the data.
 4. Determine the credibility of the data.
-**Deliverable**
+
+**Deliverables**
 * A description of all data sources used
 * Follow the give [Kaggle Link](https://www.kaggle.com/riayadav19/casestudy1-cyclisticdataset) for the stored and filtered dataset.
 
@@ -36,7 +37,8 @@ Below given are six steps followed.
 2. Choose your tools.
 3. Transform the data so you can work with it effectively.
 4. Document the cleaning process.
-**Deliverable**
+
+**Deliverables**
 * Documentation of any cleaning or manipulation of data
 
 **Steps Taken to Clean**
@@ -59,7 +61,7 @@ Below given are six steps followed.
         LOAD DATA INFILE "filepath/jan2021_tripdata.csv" INTO TABLE feb2021_tripdata FIELDS TERMINATED BY ',' IGNORE 1 ROWS;
         ```
   
-  4. I prefered modifying certain column datatypes for better ananlysis details for which are in *_processing1.sql_* file under *_Process_phase folder_*.
+  4. I prefered modifying certain column datatypes for better ananlysis details of which are in *_processing1.sql_* file under *_Process_phase folder_*.
   
 
 
