@@ -55,14 +55,14 @@ Below given are six steps followed.
 4. SQL was chosen for further steps as it was a huge dataset of almost 60-90k rows per month data.
       1. Create a database to work with named *case_study1*
       2. Create a schema for one table jan2021_tripdata and ran the below commands to copy same schema for remaining tables.
-                      ```bash
-                      SELECT * INTO feb2021_tripdata FROM jan2021_tripdata; 
-                      ```
+      ```bash
+      SELECT * INTO feb2021_tripdata FROM jan2021_tripdata; 
+      ```
         
       3. Loaded the csv file from commandline into their respective tables
-                ```bash
-                LOAD DATA INFILE "filepath/jan2021_tripdata.csv" INTO TABLE feb2021_tripdata FIELDS TERMINATED BY ',' IGNORE 1 ROWS;
-                ```
+                        ```bash
+                        LOAD DATA INFILE "filepath/jan2021_tripdata.csv" INTO TABLE feb2021_tripdata FIELDS TERMINATED BY ',' IGNORE 1 ROWS;
+                        ```
   
      4. I prefered modifying certain column datatypes for better ananlysis details of which are in [processinStep1_ChangeDataTypes.sql](https://github.com/RiaYadav/DataAnalysis_CaseStudy1/blob/main/Process_Phase) file under *_Process_phase folder_*.
 
