@@ -104,7 +104,7 @@ ORDER  BY COUNT(*) DESC
 
 
 -- PERFORMING INNER JOIN ON ride_length_details, start_station-details & ean_station_details --
-Create table case_study1.final_analysis
+Create table case_study1.UserData
 (Select r.*, s.total_count as count_of_start_station, s.start_station_name, e.total_count as count_of_end_station, e.end_station_name
 From(( case_study1.ride_length_details r 
 INNER JOIN case_study1.start_station_details s ON r.Months=s.Months AND r.member_casual=s.member_casual)

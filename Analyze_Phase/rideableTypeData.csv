@@ -1,0 +1,32 @@
+Months,member_casual,rideable_type,count_of_rideable_type_used,avg_rideLength_bikeBased,avg_rideLength_memberBased,total_members,start_station_name,count_of_start_station,end_station_name,count_of_end_station
+1,casual,classic_bike,8258,00:22:23.7763,00:21:52.1967,18116,"Lake Shore Dr & Monroe St",196,"Millennium Park",179
+1,member,classic_bike,53439,00:13:06.3636,00:12:40.6724,78713,"Clark St & Elm St",840,"Dearborn St & Erie St",897
+1,casual,docked_bike,2105,00:46:33.2684,00:21:52.1967,18116,"Lake Shore Dr & Monroe St",196,"Millennium Park",179
+1,member,docked_bike,1,00:02:38.0000,00:12:40.6724,78713,"Clark St & Elm St",840,"Dearborn St & Erie St",897
+1,casual,electric_bike,7753,00:14:36.4375,00:21:52.1967,18116,"Lake Shore Dr & Monroe St",196,"Millennium Park",179
+1,member,electric_bike,25273,00:11:46.3729,00:12:40.6724,78713,"Clark St & Elm St",840,"Dearborn St & Erie St",897
+2,casual,classic_bike,5695,00:32:27.8695,00:31:53.4154,10131,"Millennium Park",122,"Millennium Park",123
+2,member,classic_bike,29317,00:16:36.2188,00:15:52.2425,39491,"Dearborn St & Erie St",440,"Dearborn St & Erie St",469
+2,casual,docked_bike,1271,01:04:54.6058,00:31:53.4154,10131,"Millennium Park",122,"Millennium Park",123
+2,casual,electric_bike,3165,00:17:35.8136,00:31:53.4154,10131,"Millennium Park",122,"Millennium Park",123
+2,member,electric_bike,10174,00:13:45.5222,00:15:52.2425,39491,"Dearborn St & Erie St",440,"Dearborn St & Erie St",469
+3,casual,classic_bike,45528,00:29:30.9423,00:32:07.7220,84033,"Lake Shore Dr & Monroe St",1887,"Lake Shore Dr & Monroe St",1785
+3,member,classic_bike,107017,00:14:04.0693,00:13:52.1706,144463,"Clark St & Elm St",1323,"Clark St & Elm St",1400
+3,casual,docked_bike,15657,00:55:09.7145,00:32:07.7220,84033,"Lake Shore Dr & Monroe St",1887,"Lake Shore Dr & Monroe St",1785
+3,casual,electric_bike,22848,00:21:33.0935,00:32:07.7220,84033,"Lake Shore Dr & Monroe St",1887,"Lake Shore Dr & Monroe St",1785
+3,member,electric_bike,37446,00:13:18.1654,00:13:52.1706,144463,"Clark St & Elm St",1323,"Clark St & Elm St",1400
+4,casual,classic_bike,70776,00:29:09.6558,00:31:39.9590,136601,"Lake Shore Dr & Monroe St",2874,"Lake Shore Dr & Monroe St",2663
+4,member,classic_bike,143843,00:14:38.7155,00:14:31.0605,200628,"Clark St & Elm St",1716,"Clark St & Elm St",1770
+4,casual,docked_bike,24714,00:55:45.3120,00:31:39.9590,136601,"Lake Shore Dr & Monroe St",2874,"Lake Shore Dr & Monroe St",2663
+4,casual,electric_bike,41111,00:21:29.8402,00:31:39.9590,136601,"Lake Shore Dr & Monroe St",2874,"Lake Shore Dr & Monroe St",2663
+4,member,electric_bike,56785,00:14:11.6693,00:14:31.0605,200628,"Clark St & Elm St",1716,"Clark St & Elm St",1770
+5,casual,classic_bike,123950,00:30:24.1380,00:32:09.3124,256916,"Streeter Dr & Grand Ave",8419,"Streeter Dr & Grand Ave",9108
+5,member,classic_bike,185142,00:14:49.3606,00:14:27.6477,274715,"Clark St & Elm St",2275,"Clark St & Elm St",2315
+5,casual,docked_bike,43353,00:57:18.7196,00:32:09.3124,256916,"Streeter Dr & Grand Ave",8419,"Streeter Dr & Grand Ave",9108
+5,casual,electric_bike,89613,00:22:24.5649,00:32:09.3124,256916,"Streeter Dr & Grand Ave",8419,"Streeter Dr & Grand Ave",9108
+5,member,electric_bike,89573,00:13:42.7686,00:14:27.6477,274715,"Clark St & Elm St",2275,"Clark St & Elm St",2315
+6,casual,classic_bike,188242,00:28:07.7781,00:29:49.5682,370678,"Streeter Dr & Grand Ave",11523,"Streeter Dr & Grand Ave",11740
+6,member,classic_bike,246774,00:14:41.1164,00:14:25.2664,358912,"Clark St & Elm St",3318,"Lake Shore Dr & North Blvd",3643
+6,casual,docked_bike,51716,00:56:42.9014,00:29:49.5682,370678,"Streeter Dr & Grand Ave",11523,"Streeter Dr & Grand Ave",11740
+6,casual,electric_bike,130720,00:21:37.8763,00:29:49.5682,370678,"Streeter Dr & Grand Ave",11523,"Streeter Dr & Grand Ave",11740
+6,member,electric_bike,112138,00:13:50.3863,00:14:25.2664,358912,"Clark St & Elm St",3318,"Lake Shore Dr & North Blvd",3643

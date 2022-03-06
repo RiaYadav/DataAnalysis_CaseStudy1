@@ -1,0 +1,13 @@
+Months,member_casual,Avg_ride_length,total_members,count_of_start_station,start_station_name,count_of_end_station,end_station_name
+1,member,00:12:40.6724,78713,840,"Clark St & Elm St",897,"Dearborn St & Erie St"
+1,casual,00:21:52.1967,18116,196,"Lake Shore Dr & Monroe St",179,"Millennium Park"
+2,member,00:15:52.2425,39491,440,"Dearborn St & Erie St",469,"Dearborn St & Erie St"
+2,casual,00:31:53.4154,10131,122,"Millennium Park",123,"Millennium Park"
+3,casual,00:32:07.7220,84033,1887,"Lake Shore Dr & Monroe St",1785,"Lake Shore Dr & Monroe St"
+3,member,00:13:52.1706,144463,1323,"Clark St & Elm St",1400,"Clark St & Elm St"
+4,casual,00:31:39.9590,136601,2874,"Lake Shore Dr & Monroe St",2663,"Lake Shore Dr & Monroe St"
+4,member,00:14:31.0605,200628,1716,"Clark St & Elm St",1770,"Clark St & Elm St"
+5,casual,00:32:09.3124,256916,8419,"Streeter Dr & Grand Ave",9108,"Streeter Dr & Grand Ave"
+5,member,00:14:27.6477,274715,2275,"Clark St & Elm St",2315,"Clark St & Elm St"
+6,casual,00:29:49.5682,370678,11523,"Streeter Dr & Grand Ave",11740,"Streeter Dr & Grand Ave"
+6,member,00:14:25.2664,358912,3318,"Clark St & Elm St",3643,"Lake Shore Dr & North Blvd"
