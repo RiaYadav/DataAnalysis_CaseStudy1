@@ -1,4 +1,4 @@
-# ANALYSING JAN2021 DATA TO GET THE ISIGHTS AND UNDERSTAND THE DATA.
+# ANALYSING JAN2021 DATA TO GET THE INSIGHTS AND UNDERSTAND THE DATA.
 
 -- Fetching  & Analysing mean of ride_length from jan data --
 select Cast(avg(ride_length) as time) as Avg_ride_length from case_study1.jan2021_tripdata;

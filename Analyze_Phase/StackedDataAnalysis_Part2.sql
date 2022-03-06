@@ -1,4 +1,4 @@
-
+# RIDEABLE PART ANALYSIS
 -- RIDEABLE TYPES & IT'S COUNT FROM 6 MONTHS OF DATA --
 select rideable_type,count(rideable_type) as count_of_rideable_type_used
 from case_study1.all_tripdata 
