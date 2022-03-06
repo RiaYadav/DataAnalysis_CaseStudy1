@@ -110,8 +110,9 @@ Below given are six steps followed.
 3. Practice presenting your case study to a friend or family member
 
 **Deliverables**
-* Your top three recommendations based on your analysis
-* Refer [Case_study1 ppt](https://github.com/RiaYadav/DataAnalysis_CaseStudy1/tree/main/Share_Phase) for top 3 recommendations
+* Your top recommendations based on your analysis
+* Refer [Recommendations](https://github.com/RiaYadav/DataAnalysis_CaseStudy1/blob/main/Act_Phase/recommendations.png) for top recommendations
+* ![Recommendations](https://github.com/RiaYadav/DataAnalysis_CaseStudy1/blob/main/Act_Phase/recommendations.png)
 
 
 
