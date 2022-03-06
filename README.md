@@ -9,12 +9,14 @@ Below given are six steps followed.
 6. Act
 
 ## Ask Phase
+
 **Key tasks**
 1. Identify the business task
 2. Consider key stakeholders
-**Deliverable**
+
+**Deliverables**
 * A clear statement of the business task
-* CaseStudy_Guideline.docx has the deliverables ready.
+* CaseStudy_Guideline.docx has the deliverable ready.
 
 ## Prepare Phase
 **Key tasks**
@@ -55,9 +57,9 @@ Below given are six steps followed.
   3. Loaded the csv file from commandline into their respective tables
     ```bash
       LOAD DATA INFILE "file_path/jan2021_tripdata.csv" INTO TABLE jan2021_tripdata FIELDS TERMINATED BY ',' IGNORE 1 ROWS;
-    ```
+```
   
-  4. I prefered modifying certain column datatypes for better ananlysis details for which are in *_processing1.sql_* file under *Process_phase folder*.
+  4. I prefered modifying certain column datatypes for better ananlysis details for which are in *_processing1.sql_* file under *_Process_phase folder_*.
   
 
 
