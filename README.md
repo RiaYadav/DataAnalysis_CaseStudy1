@@ -63,7 +63,7 @@ Below given are six steps followed.
       3. Loaded the csv file from commandline into their respective tables
       
       ```bash
-        LOAD DATA INFILE "filepath/jan2021_tripdata.csv" INTO TABLE feb2021_tripdata FIELDS TERMINATED BY ',' IGNORE 1 ROWS;
+        LOAD DATA INFILE "filepath/feb2021_tripdata.csv" INTO TABLE feb2021_tripdata FIELDS TERMINATED BY ',' IGNORE 1 ROWS;
       ```
   
      4. I prefered modifying certain column datatypes for better ananlysis details of which are in [processinStep1_ChangeDataTypes.sql](https://github.com/RiaYadav/DataAnalysis_CaseStudy1/blob/main/Process_Phase) file under *_Process_phase folder_*.
